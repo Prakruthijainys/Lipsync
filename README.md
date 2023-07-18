@@ -25,3 +25,6 @@ Prerequisites:
 Lip-syncing videos using the pre-trained models (Inference) :
 The result is saved in results/result_voice.mp4.
 
+The link to google colab notebook : https://colab.research.google.com/drive/1-j1n9JCn5a4rt089Pvve0BAiVbCFiruC
+
+
