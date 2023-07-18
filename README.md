@@ -11,15 +11,15 @@ Prerequisites:
 1. Python 3.6
 2. Install necessary packages using pip install -r requirements.txt
    packages installed are:
-   librosa==0.8.0
-   numpy==1.17.1
-   --upgrade pip
-   opencv-python
-   opencv-contrib-python
-   torch==1.1.0
-   torchvision==0.3.0
-   tqdm==4.45.0
-   numba==0.48
+   1. librosa==0.8.0
+   2. numpy==1.17.1
+   3. --upgrade pip
+   4. opencv-python
+   5. opencv-contrib-python
+   6. torch==1.1.0
+   7. torchvision==0.3.0
+   8.tqdm==4.45.0
+   9. numba==0.48
 
 
 Lip-syncing videos using the pre-trained models (Inference) :
