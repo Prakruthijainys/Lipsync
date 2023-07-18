@@ -2,8 +2,8 @@ The objective of this project is to demonstrate your skills in creating an AI mo
 lip-syncing i.e. synchronizing an audio file with a video file. Your task is to ensure the model is accurately
 matching the lip movements of the characters in the given video file with the corresponding audio file.
 The input files used are:
-Video - https://openinapp.co/5cwva
-Audio - https://openinapp.co/o9vuj
+* Video - https://openinapp.co/5cwva
+* Audio - https://openinapp.co/o9vuj
 
 Used Wav2Lip to lipsync using pretrained model downloaded using https://github.com/Rudrabha/Wav2Lip.
 
