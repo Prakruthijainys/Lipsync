@@ -1,6 +1,9 @@
 The objective of this project is to demonstrate your skills in creating an AI model that is proficient in
 lip-syncing i.e. synchronizing an audio file with a video file. Your task is to ensure the model is accurately
 matching the lip movements of the characters in the given video file with the corresponding audio file.
+
+The link to google colab notebook : https://colab.research.google.com/drive/1-j1n9JCn5a4rt089Pvve0BAiVbCFiruC
+
 The input files used are:
 * Video - https://openinapp.co/5cwva
 * Audio - https://openinapp.co/o9vuj
