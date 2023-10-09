@@ -1,4 +1,4 @@
-The objective of this project is to demonstrate your skills in creating an AI model that is proficient in
+The objective of this project is to create an AI model that is proficient in
 lip-syncing i.e. synchronizing an audio file with a video file. Your task is to ensure the model is accurately
 matching the lip movements of the characters in the given video file with the corresponding audio file.
 
